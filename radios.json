@@ -16,15 +16,15 @@
     "url": "http://65.108.198.245:9101/stream"
   },
   {
-    "name": "Радио Пайнер",
-    "url": "http://87.120.6.86:8000/hq?1549405215950"
+    "name": "Радио Сигнал Плюс",
+    "url": "https://stream-156.zeno.fm/eus8arb1mkeuv"
   },
   {
     "name": "Радио MMIROJV",
     "url": "https://play-radio0.jump.bg:7484/autodj"
   },
   {
-    "name": "Радио Вероника",
-    "url": "http://stream.radioreklama.bg/veronika64"
+    "name": "Радио Ultra",
+    "url": "http://88.80.96.25:40070/ultra.mp3"
   }
 ]
