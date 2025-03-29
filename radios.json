@@ -30,15 +30,7 @@
   {
     "name": "Радио Пияника",
     "url": "http://mpc1.mediacp.eu:8024/"
-  },
-  {
-    "name": "Радио Веселина",
-    "url": "https://bss1.neterra.tv/veselina/veselina.m3u8"
-  },
-  {
-    "name": "Радио Вероника",
-    "url": "https://play.global.audio/veronika64"
-  },
+  }
   {
     "name": "Радио Пайнер",
     "url": "http://87.120.6.86:8000/hq?1549405215950"
